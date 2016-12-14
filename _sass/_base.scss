@@ -1,0 +1,22 @@
+$content-width:800px;
+$footer-width:1600px;
+$grey-color-light:#8b8b8b;
+$spacing-unit:60px;
+$main: #fff;
+$light: #E7EDF4;
+$header:  #69bddc;
+$font-style: 'Open Sans', sans-serif;
+$font-color: #262626;
+$link-color: #425469;
+$link-hover-color: $header ;
+$heading-font: 'Muli', sans-serif;
+$heading-font-color: #425469;
+
+
+*,
+*::before,
+*::after {
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
